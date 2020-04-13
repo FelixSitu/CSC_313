@@ -35,8 +35,8 @@ function add_map_point(lat, lng, radius, color) {
 //San Francisco
 add_map_point(-122.727803, 37.785221, 1, 'red')
 
-//Los Angeles
-add_map_point(-118.2437, 34.0522, 2, 'blue')
+//San Jose
+add_map_point(-121.8863, 37.3382, 2, 'blue')
 
 //San Luis Obispo
 add_map_point(-120.672788, 35.273149, 2, 'green')
